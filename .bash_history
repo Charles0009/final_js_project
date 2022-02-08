@@ -198,3 +198,7 @@ ls
 nano sensors
 nano gpsNmea 
 nano tph.log 
+ls
+cd fakesonde/sensehat/
+ls
+exit
